@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.21)  14 FEB 2023 22:42
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.21)  15 JUL 2023 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/you3/Document/創作/小説/ひよっこリリアの魔術探究日誌/本編/第一話.tex
-(d:/you3/Document/創作/小説/ひよっこリリアの魔術探究日誌/本編/第一話.tex
+**d:/you3/Document/創作/小説/rilia's_report/本編/第一話.tex
+(d:/you3/Document/創作/小説/rilia's_report/本編/第一話.tex
 pLaTeX2e <2018-12-01> (based on LaTeX2e <2018-12-01>)
 (c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
 Document Class: jsbook 2018/12/11 jsclasses (okumura, texjporg)
@@ -49,15 +49,40 @@ LaTeX Info: Redefining \LaTeX on input line 147.
 LaTeX Info: Redefining \LaTeXe on input line 200.
 )
 \heisei=\count92
+) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen124
+\Gm@wd@mp=\dimen125
+\Gm@odd@mp=\dimen126
+\Gm@even@mp=\dimen127
+\Gm@layoutwidth=\dimen128
+\Gm@layoutheight=\dimen129
+\Gm@layouthoffset=\dimen130
+\Gm@layoutvoffset=\dimen131
+\Gm@dimlist=\toks16
 ) (c:/texlive/2018/texmf-dist/tex/latex/bxpapersize/bxpapersize.sty
 Package: bxpapersize 2017/10/08 v0.3b
 (c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 (c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks15
-\XKV@tempa@toks=\toks16
-(c:/texlive/2018/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count93
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count96
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
@@ -65,43 +90,36 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+)) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
 )
-\bxpr@dima=\dimen124
+\bxpr@dima=\dimen132
 ) (c:/texlive/2018/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
 Package: pxrubrica 2018/08/16 v1.3c PX Japanese-style ruby
-\pxrr@cnta=\count94
-\pxrr@cntr=\count95
-\pxrr@dima=\dimen125
+\pxrr@cnta=\count97
+\pxrr@cntr=\count98
+\pxrr@dima=\dimen133
 \pxrr@boxa=\box43
 \pxrr@boxb=\box44
 \pxrr@boxr=\box45
 ) (c:/texlive/2018/texmf-dist/tex/platex/jsclasses/okumacro.sty
 Package: okumacro 2018/06/11 okumura, texjporg
-\@scw=\dimen126
+\@scw=\dimen134
 \scb@x=\box46
-\EXAMPLEWIDTH=\dimen127
-\shaderule=\dimen128
+\EXAMPLEWIDTH=\dimen135
+\shaderule=\dimen136
 ) (c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box47
 \beforetitleunit=\skip44
 \aftertitleunit=\skip45
-\ttl@plus=\dimen129
-\ttl@minus=\dimen130
-\ttl@toksa=\toks17
-\titlewidth=\dimen131
-\titlewidthlast=\dimen132
-\titlewidthfirst=\dimen133
+\ttl@plus=\dimen137
+\ttl@minus=\dimen138
+\ttl@toksa=\toks19
+\titlewidth=\dimen139
+\titlewidthlast=\dimen140
+\titlewidthfirst=\dimen141
 ) (c:/texlive/2018/texmf-dist/tex/latex/epigraph/epigraph.sty
 Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 \beforeepigraphskip=\skip46
@@ -111,82 +129,120 @@ Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 ) (out/第一話.aux)
 \openout1 = `第一話.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* lines: 43
+* modes: 
+* h-part:(L,W,R)=(67.58214pt, 462.3436pt, 67.58214pt)
+* v-part:(T,H,B)=(64.11444pt, 684.76073pt, 96.17168pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=462.3436pt
+* \textheight=684.76073pt
+* \oddsidemargin=-4.68785pt
+* \evensidemargin=-4.68785pt
+* \topmargin=-42.46638pt
+* \headheight=20.0pt
+* \headsep=14.31084pt
+* \topskip=12.76073pt
+* \footskip=0.0pt
+* \marginparwidth=120.20934pt
+* \marginparsep=18.49374pt
+* \columnsep=18.49374pt
+* \skip\footins=16.0pt plus 5.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 \AtBeginShipoutBox=\box48
 第1話
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 19.9311pt on input line 12.
+(Font)              scaled to size 19.9311pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 12.
+(Font)              scaled to size 23.90964pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 23.90964pt on input line 12.
+(Font)              scaled to size 23.90964pt on input line 14.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 13.
+(Font)              scaled to size 8.64899pt on input line 15.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 13.
+(Font)              scaled to size 8.64899pt on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 13.
+(Font)              <9> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+(Font)              <5> on input line 15.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 13.
+(Font)              scaled to size 5.76599pt on input line 15.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 13.
+(Font)              scaled to size 4.805pt on input line 15.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 15.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 15.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 15.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 15.
+(Font)              scaled to size 13.83836pt on input line 17.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 29.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 29.
+(Font)              scaled to size 9.60999pt on input line 51.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 29.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 29.
+(Font)              scaled to size 9.60999pt on input line 51.
 [1
 
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 68.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 49.
-[2] [3] (out/第一話.aux) ) 
+(Font)              scaled to size 6.72699pt on input line 68.
+[2]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 76.
+[3] [4] [5] (out/第一話.aux) ) 
 Here is how much of TeX's memory you used:
- 2267 strings out of 493226
- 32044 string characters out of 6147196
- 104808 words of memory out of 5000000
- 6261 multiletter control sequences out of 15000+600000
- 14262 words of font info for 65 fonts, out of 8000000 for 9000
+ 2722 strings out of 493226
+ 38575 string characters out of 6147196
+ 119929 words of memory out of 5000000
+ 6711 multiletter control sequences out of 15000+600000
+ 14451 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,8n,31p,284b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,8n,31p,396b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/第一話.dvi (3 pages, 4484 bytes).
+Output written on out/第一話.dvi (5 pages, 14072 bytes).
