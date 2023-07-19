@@ -1,8 +1,8 @@
-PWD d:/you3/Document/‘nì/¬à/rilia's_report/–{•Ò
+PWD d:/you3/Document/å‰µä½œ/å°èª¬/rilia's_report/æœ¬ç·¨
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/eptex/platex.fmt
-INPUT d:/you3/Document/‘nì/¬à/rilia's_report/–{•Ò/‘æˆê˜b.tex
-OUTPUT out/‘æˆê˜b.log
+INPUT d:/you3/Document/å‰µä½œ/å°èª¬/rilia's_report/æœ¬ç·¨/ç¬¬ä¸€è©±.tex
+OUTPUT out/ç¬¬ä¸€è©±.log
 INPUT c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
 INPUT c:/texlive/2018/texmf-dist/tex/platex/jsclasses/jsbook.cls
 INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
@@ -46,9 +46,9 @@ INPUT c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/epigraph/epigraph.sty
 INPUT c:/texlive/2018/texmf-dist/tex/latex/epigraph/epigraph.sty
-INPUT out/‘æˆê˜b.aux
-INPUT out/‘æˆê˜b.aux
-OUTPUT out/‘æˆê˜b.aux
+INPUT out/ç¬¬ä¸€è©±.aux
+INPUT out/ç¬¬ä¸€è©±.aux
+OUTPUT out/ç¬¬ä¸€è©±.aux
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -77,7 +77,7 @@ INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT out/‘æˆê˜b.dvi
+OUTPUT out/ç¬¬ä¸€è©±.dvi
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
 INPUT c:/texlive/2018/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
-INPUT out/‘æˆê˜b.aux
+INPUT out/ç¬¬ä¸€è©±.aux
