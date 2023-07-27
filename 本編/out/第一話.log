@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.21)  27 JUL 2023 08:30
+This is e-pTeX, Version 3.14159265-p3.8.1-180226-2.6 (utf8.sjis) (TeX Live 2018/W32TeX) (preloaded format=platex 2019.4.21)  28 JUL 2023 08:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -235,7 +235,7 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 [2]
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 4.805pt on input line 77.
-[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] (out/Èö®¨Ëç≥ÄÈöß±.aux) ) 
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] (out/Èö®¨Ëç≥ÄÈöß±.aux) ) 
 Here is how much of TeX's memory you used:
  2721 strings out of 493226
  38604 string characters out of 6147196
@@ -243,6 +243,6 @@ Here is how much of TeX's memory you used:
  6710 multiletter control sequences out of 15000+600000
  14451 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,9n,31p,502b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,9n,31p,482b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on out/Èö®¨Ëç≥ÄÈöß±.dvi (15 pages, 51320 bytes).
+Output written on out/Èö®¨Ëç≥ÄÈöß±.dvi (16 pages, 52864 bytes).
